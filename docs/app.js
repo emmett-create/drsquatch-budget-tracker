@@ -3,10 +3,7 @@
 // separate "Planned" entry type — that was retired for all new builds on
 // 2026-09-22, see madegood-budget-tracker/supabase_setup.sql).
 //
-// TOTAL_BUDGET is a placeholder — Emmett said he'll give the real number
-// once he has it (2026-09-30). Update it here and in index.html's two
-// "$100,000" spots the moment it's known; nothing else needs to change.
-const TOTAL_BUDGET = 100_000; // PLACEHOLDER — update once the real budget is known
+const TOTAL_BUDGET = 60_000; // confirmed 2026-10-20
 const CATS = {
   paid_influencers: 'Paid Influencers',
 };
